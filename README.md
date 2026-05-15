@@ -1,16 +1,32 @@
-## Hi there 👋
+# George Anesiadis
 
-<!--
-**GeorgeAnes/GeorgeAnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Artificial Intelligence & Engineering Systems student at TU/e, High Tech Systems & Robotics track. Background in Chemical Engineering. I work on AI for engineering systems: control, robotics, optimization, computer vision, and industrial data science.
 
-Here are some ideas to get you started:
+## Technical Focus
+- Model predictive control, robotics, multi-agent systems
+- Machine learning for sensor and vision data
+- Optimization and decision-making algorithms
+- AI engineering for technical/industrial workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+### Control & Robotics
+- AERO MPC / SPC / Koopman-SPC control benchmark
+- RL quadcopter landing on a moving platform
+- Multi-drone LTL formation and flocking control
+
+### AI & Data Science
+- Smartphone activity recognition from IMU signals
+- Facial expression recognition with classical ML pipelines
+- Camera calibration and NeRFStudio transform generation
+
+### Optimization
+- Petri-net discovery with genetic algorithms
+- Decision-making and evolutionary optimization experiments
+
+## Tech Stack
+Python, MATLAB, Simulink, PyTorch, scikit-learn, OpenCV, Gymnasium, PyBullet, Stable-Baselines3, DEAP, pm4py, YALMIP, MPT, Git, LaTeX.
+
+## Links
+- LinkedIn: [placeholder]
+- CV: [placeholder]
+- Email: [placeholder]
