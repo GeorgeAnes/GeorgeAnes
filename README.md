@@ -19,6 +19,9 @@ MSc Artificial Intelligence & Engineering Systems student at TU/e, High Tech Sys
 - Facial expression recognition with classical ML pipelines
 - Camera calibration and NeRFStudio transform generation
 
+### Responsible AI & Enterprise Tools
+- [Enterprise AI Document Risk Auditor](https://github.com/GeorgeAnes/enterprise-ai-document-risk-auditor): local FastAPI/React app for document-grounded claim review, evidence retrieval, transparent risk scoring, and optional LLM reviewer notes.
+
 ### Optimization
 - Petri-net discovery with genetic algorithms
 - Decision-making and evolutionary optimization experiments
