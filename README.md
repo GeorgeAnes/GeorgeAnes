@@ -33,4 +33,4 @@ Python, MATLAB, Simulink, PyTorch, scikit-learn, OpenCV, Gymnasium, PyBullet, St
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/anesgeorge/)
 - [CV](assets/Georgios_Anesiadis_CV.pdf)
-- Email: g.anesiadis@student.tue.nl
+- [Personal email](giwrgosanesiadis4@gmail.com) - [Academic email](g.anesiadis@student.tue.nl) 
