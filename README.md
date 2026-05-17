@@ -31,6 +31,6 @@ MSc Artificial Intelligence & Engineering Systems student at TU/e, High Tech Sys
 Python, MATLAB, Simulink, PyTorch, scikit-learn, OpenCV, Gymnasium, PyBullet, Stable-Baselines3, DEAP, pm4py, YALMIP, MPT, Git, LaTeX.
 
 ## Links
-- LinkedIn: (https://www.linkedin.com/in/anesgeorge/)
-- CV: [placeholder]
-- Email: (giwrgosanesiadis4@gmai.com) - g.anesiadis@student.tue.nl
+- [LinkedIn](https://www.linkedin.com/in/anesgeorge/)
+- [CV](assets/Georgios_Anesiadis_CV.pdf)
+- Email: g.anesiadis@student.tue.nl
