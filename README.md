@@ -16,11 +16,12 @@ MSc Artificial Intelligence & Engineering Systems student at TU/e, High Tech Sys
 
 ### AI & Data Science
 - Smartphone activity recognition from IMU signals
-- Facial expression recognition with classical ML pipelines
+- [Facial Expression Recognition with Classical ML](https://github.com/GeorgeAnes/facial-expression-recognition-ml): computer-vision pipeline for laptop-camera emotion recognition using face detection, feature extraction, classical ML classifiers, and confusion-matrix evaluation.
 - Camera calibration and NeRFStudio transform generation
 
 ### Responsible AI & Enterprise Tools
 - [Enterprise AI Document Risk Auditor](https://github.com/GeorgeAnes/enterprise-ai-document-risk-auditor): local FastAPI/React app for document-grounded claim review, evidence retrieval, transparent risk scoring, and optional LLM reviewer notes.
+- [Process Mining KPI Dashboard](https://github.com/GeorgeAnes/process-mining-kpi-dashboard): retro enterprise operations dashboard for event-log analytics, bottleneck detection, SLA analysis, process variants, and executive reporting.
 
 ### Optimization
 - Petri-net discovery with genetic algorithms
